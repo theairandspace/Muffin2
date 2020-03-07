@@ -1,4 +1,4 @@
-# Muffin2
+# Muffin DOS
 
 ESP:
 
